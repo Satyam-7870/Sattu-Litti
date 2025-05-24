@@ -149,5 +149,5 @@ setTimeout(() => {
     beatElement('#garden');        // Heart icon   // Entire message block
  // Timer specifically
   }, 1000);
-}, 15000);
+}, 12500);
 
