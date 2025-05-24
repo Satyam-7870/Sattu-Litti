@@ -147,7 +147,7 @@
 	        },
 	        petalStretch: {
 	            min: 0.1,
-	            max: 3
+	            max: 4
 	        },
 	        growFactor: {
 	            min: 0.1,
