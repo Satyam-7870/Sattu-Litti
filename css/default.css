@@ -33,12 +33,12 @@ body{margin:0;padding:0;background:#ffe;font-size:12px;overflow:auto}
     transform: scale(1);
   }
   50% {
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
 }
 
 .beat {
-  animation: beat 0.5s ease-in-out;
+  animation: beat 1s ease-in-out;
   /* Use 'forwards' to keep scale at 1.2 or default to normal */
   animation-fill-mode: forwards;
   transform-origin: center center;
